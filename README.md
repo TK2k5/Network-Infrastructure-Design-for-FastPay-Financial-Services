@@ -2,12 +2,15 @@
 
 ## 1. Tổng quan dự án
 
-Công ty tài chính **FastPay** có: - **Trụ sở chính:** Quận 1, TP.HCM
+Công ty tài chính **FastPay** có:
+
+- **Trụ sở chính:** Quận 1, TP.HCM
 
 - **2 chi nhánh:** Hà Nội và Đà Nẵng
 
-Dịch vụ: **Thanh toán trực tuyến**, yêu cầu: - Bảo mật cao
+Dịch vụ: **Thanh toán trực tuyến**, yêu cầu:
 
+- Bảo mật cao
 - Độ trễ thấp
 - Khả năng mở rộng linh hoạt
 - Kết nối ổn định giữa các chi nhánh
@@ -31,6 +34,6 @@ Dịch vụ: **Thanh toán trực tuyến**, yêu cầu: - Bảo mật cao
 
 ### **2.2. Chi nhánh Hà Nội & Đà Nẵng**
 
-- Kết nối **VPN Site-to-Site** về Data Center tại trụ sở chính\
+- Kết nối **VPN Site-to-Site** về Data Center tại trụ sở chính
 
 ---
